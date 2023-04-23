@@ -1,0 +1,25 @@
+.bg-img1 {
+  width: 100vw;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://antimatter.vn/wp-content/uploads/2022/06/hinh-anh-thien-nhien.jpg);
+}
+.bg-img2 {
+  width: 100vw;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2022/08/anh-thien-nhien.jpg);
+}
+.bg-img3 {
+  width: 100vw;
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://khoinguonsangtao.vn/wp-content/uploads/2021/08/tai-hinh-anh-dep-ve-thien-nhien.jpg);
+}
+
+footer {
+  height: 30vh;
+}
